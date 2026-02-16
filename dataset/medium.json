@@ -1,0 +1,23 @@
+
+[
+  {"book":"Genesi","question":"Chi fu il primo uomo creato da Dio?","a":"Adamo","b":"Noè","c":"Abramo","d":"Mosè","correct":"a"},
+  {"book":"Genesi","question":"Chi fu la prima donna?","a":"Sara","b":"Eva","c":"Rachele","d":"Rebecca","correct":"b"},
+  {"book":"Genesi","question":"Chi costruì l’arca?","a":"Abramo","b":"Isacco","c":"Noè","d":"Giacobbe","correct":"c"},
+  {"book":"Esodo","question":"Chi guidò Israele fuori dall’Egitto?","a":"Mosè","b":"Davide","c":"Elia","d":"Giosuè","correct":"a"},
+  {"book":"Esodo","question":"Sul monte Sinai Mosè ricevette…","a":"Le Beatitudini","b":"I Dieci Comandamenti","c":"I Salmi","d":"Le parabole","correct":"b"},
+  {"book":"Giosuè","question":"Quale città cadde dopo il suono delle trombe?","a":"Gerusalemme","b":"Gerico","c":"Betlemme","d":"Nazaret","correct":"b"},
+  {"book":"1 Samuele","question":"Chi fu unto re al posto di Saul?","a":"Salomone","b":"Davide","c":"Ezechia","d":"Gedeone","correct":"b"},
+  {"book":"1 Samuele","question":"Con cosa Davide sconfisse Golia?","a":"Una spada","b":"Una fionda","c":"Un arco","d":"Una lancia","correct":"b"},
+  {"book":"Salmi","question":"Chi è tradizionalmente l’autore di molti Salmi?","a":"Davide","b":"Isaia","c":"Geremia","d":"Daniele","correct":"a"},
+  {"book":"Giona","question":"Giona fu inghiottito da…","a":"Un leone","b":"Un grande pesce","c":"Un’aquila","d":"Un serpente","correct":"b"},
+  {"book":"Daniele","question":"Daniele fu gettato nella fossa dei…","a":"Lupi","b":"Leoni","c":"Orsi","d":"Cani","correct":"b"},
+  {"book":"Matteo","question":"Dove nacque Gesù?","a":"Nazaret","b":"Betlemme","c":"Capernaum","d":"Gerusalemme","correct":"b"},
+  {"book":"Matteo","question":"Quanti discepoli scelse Gesù?","a":"7","b":"10","c":"12","d":"70","correct":"c"},
+  {"book":"Luca","question":"Chi annunciò a Maria la nascita di Gesù?","a":"Michele","b":"Gabriele","c":"Raffaele","d":"Uriel","correct":"b"},
+  {"book":"Giovanni","question":"Chi battezzava nel fiume Giordano?","a":"Pietro","b":"Paolo","c":"Giovanni Battista","d":"Andrea","correct":"c"},
+  {"book":"Marco","question":"Gesù calmò…","a":"Un incendio","b":"Una tempesta","c":"Una carestia","d":"Un terremoto","correct":"b"},
+  {"book":"Atti","question":"Lo Spirito Santo scese sui discepoli a…","a":"Pasqua","b":"Pentecoste","c":"Natale","d":"Capanne","correct":"b"},
+  {"book":"Atti","question":"Chi fu il grande missionario ai pagani?","a":"Pietro","b":"Paolo","c":"Giacomo","d":"Giovanni","correct":"b"},
+  {"book":"Apocalisse","question":"L’Apocalisse fu scritta da…","a":"Paolo","b":"Giovanni","c":"Pietro","d":"Luca","correct":"b"},
+  {"book":"Genesi","question":"Dio creò il mondo in…","a":"3 giorni","b":"6 giorni","c":"7 giorni","d":"10 giorni","correct":"b"}
+]
